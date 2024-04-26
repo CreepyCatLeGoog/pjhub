@@ -1,0 +1,30 @@
+{
+    "accounts": [
+        {
+            "username": "baba",
+            "password_hash": "$2b$12$H7beqiiD1xWm/boNvicUrO6W/DXu/yuhYdiCakQj4x2vzqC8x0zH6",
+            "tasks": [
+                {
+                    "task": "rezrezrez",
+                    "priority": false,
+                    "finished": false
+                },
+                {
+                    "task": "rez",
+                    "priority": false,
+                    "finished": false
+                },
+                {
+                    "task": "hgjgfjd",
+                    "priority": true,
+                    "finished": true
+                },
+                {
+                    "task": "rez",
+                    "priority": true,
+                    "finished": false
+                }
+            ]
+        }
+    ]
+}
